@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196860761361",
+    "project_id": "quality-groups",
+    "storage_bucket": "quality-groups.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196860761361:android:abe1dc2769dcef5b43e8b0",
+        "android_client_info": {
+          "package_name": "com.example.quality_groups"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3DwDCOiGB1DBwsmupRySsJ0RqucxpfsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
